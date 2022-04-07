@@ -1,6 +1,5 @@
-nice
-good
-very
+very nice
+very good
 special-app
 
 
